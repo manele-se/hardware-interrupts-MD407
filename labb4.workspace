@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="labb4" Database="" Version="10.0.0">
+  <Project Name="uppgift35" Path="uppgift35/uppgift35.project" Active="No"/>
+  <Project Name="uppgift36" Path="uppgift36/uppgift36.project" Active="No"/>
+  <Project Name="uppgift37" Path="uppgift37/uppgift37.project" Active="No"/>
+  <Project Name="uppgift39" Path="uppgift39/uppgift39.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="uppgift35" ConfigName="Debug"/>
+      <Project Name="uppgift36" ConfigName="Debug"/>
+      <Project Name="uppgift37" ConfigName="Debug"/>
+      <Project Name="uppgift39" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="uppgift35" ConfigName="Release"/>
+      <Project Name="uppgift36" ConfigName="Release"/>
+      <Project Name="uppgift37" ConfigName="Release"/>
+      <Project Name="uppgift39" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Simulator" Selected="yes">
+      <Environment/>
+      <Project Name="uppgift39" ConfigName="Simulator"/>
+      <Project Name="uppgift37" ConfigName="Simulator"/>
+      <Project Name="uppgift36" ConfigName="Simulator"/>
+      <Project Name="uppgift35" ConfigName="Simulator"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

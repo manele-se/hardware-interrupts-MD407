@@ -4,6 +4,7 @@
   <Project Name="uppgift36" Path="uppgift36/uppgift36.project" Active="No"/>
   <Project Name="uppgift37" Path="uppgift37/uppgift37.project" Active="No"/>
   <Project Name="uppgift39" Path="uppgift39/uppgift39.project" Active="Yes"/>
+  <Project Name="labuppgift4_3" Path="labuppgift4_3/labuppgift4_3.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="uppgift36" ConfigName="Debug"/>
       <Project Name="uppgift37" ConfigName="Debug"/>
       <Project Name="uppgift39" ConfigName="Debug"/>
+      <Project Name="labuppgift4_3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="no">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="uppgift36" ConfigName="Release"/>
       <Project Name="uppgift37" ConfigName="Release"/>
       <Project Name="uppgift39" ConfigName="Release"/>
+      <Project Name="labuppgift4_3" ConfigName="Release"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Simulator" Selected="yes">
       <Environment/>
@@ -25,6 +28,7 @@
       <Project Name="uppgift37" ConfigName="Simulator"/>
       <Project Name="uppgift36" ConfigName="Simulator"/>
       <Project Name="uppgift35" ConfigName="Simulator"/>
+      <Project Name="labuppgift4_3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
